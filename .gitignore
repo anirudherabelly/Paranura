@@ -1,0 +1,5 @@
+*.cfg
+bin/
+lib/
+.idea/
+**/__pycache__/
